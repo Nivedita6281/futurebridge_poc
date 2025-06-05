@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pydantic
+boto3
+python-dotenv
+pyspellchecker
+PyPDF2
+openai
+numpy
+faiss-cpu
+pandas
+sentence-transformers
+langchain
+fastapi-cache2
+python-multipart
+fuzzywuzzy
+streamlit

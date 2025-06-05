@@ -1,0 +1,67 @@
+{
+  "documents": [
+    {
+      "filename": "CANCER1.pdf",
+      "s3_key": "research_papers/CANCER1.pdf",
+      "status": "pending_vectorization"
+    },
+    {
+      "filename": "CANCER2.pdf",
+      "s3_key": "research_papers/CANCER2.pdf",
+      "status": "pending_vectorization"
+    },
+    {
+      "filename": "CANCER3.pdf",
+      "s3_key": "research_papers/CANCER3.pdf",
+      "status": "pending_vectorization"
+    },
+    {
+      "filename": "HIV.pdf",
+      "s3_key": "research_papers/HIV.pdf",
+      "status": "pending_vectorization"
+    },
+    {
+      "filename": "MOON.pdf",
+      "s3_key": "research_papers/MOON.pdf",
+      "status": "pending_vectorization"
+    },
+    {
+      "filename": "TB1.pdf",
+      "s3_key": "research_papers/TB1.pdf",
+      "status": "pending_vectorization"
+    },
+    {
+      "filename": "TB2.pdf",
+      "s3_key": "research_papers/TB2.pdf",
+      "status": "pending_vectorization"
+    },
+    {
+      "filename": "Tsunami.pdf",
+      "s3_key": "research_papers/Tsunami.pdf",
+      "status": "pending_vectorization"
+    },
+    {
+      "filename": "Tumour.pdf",
+      "s3_key": "research_papers/Tumour.pdf",
+      "status": "pending_vectorization"
+    },
+    {
+      "filename": "DIABETES1.pdf",
+      "s3_key": "research_papers/DIABETES1.pdf",
+      "title": "DIABETES1",
+      "url": "",
+      "status": "pending_vectorization"
+    },
+    {
+      "filename": "DIABETES2.pdf",
+      "s3_key": "research_papers/DIABETES2.pdf",
+      "title": "DIABETES2",
+      "url": "",
+      "status": "pending_vectorization"
+    }
+  ],
+  "metadata": {
+    "created": "new",
+    "last_updated": "2025-05-26T14:08:41.623382"
+  }
+}
